@@ -1,59 +1,27 @@
-l Git repository, connect it to a GitHub repository, and upload files using Git commands.
+# DIV-A-58 | Third Year IT Engineering
 
-Assignment 6: Student Information Application Using React
+## About This Repository
 
-Develop a React application using components to accept and display student details such as name, roll number, department, and marks.
+This repository contains practical assignments and mini projects completed as part of the Third Year Information Technology Engineering curriculum at KBT College of Engineering, Nashik.
 
-Assignment 7: Personal Expense Tracker Using React
+## Assignments
 
-Create a React application to record and analyze personal expenses.
+### Assignment 1: Responsive Webpage Using HTML5 and CSS3
 
-Assignment 8: Student Management REST API
+Develop a structured and responsive webpage using HTML5 semantic tags and CSS3 styling.
 
-Develop a REST API using Node.js, Express.js, and MongoDB to perform CRUD operations on student records and test API endpoints using Postman.
+### Assignment 2: Webpage Using HTML5 and CSS3
 
-Assignment 9: ExamSeat Pro — Smart Seating Management System
+Develop a structured webpage using a navigation bar, tables, forms, and CSS3 styling.
 
-Develop a web-based examination seating management system to manage student records, examination rooms, seating allocation, and student seat searches.
+### Assignment 3: Student Result Management System
 
-Technologies Used
+Develop a web-based application using HTML, CSS, and JavaScript to enter student details and marks, calculate total marks and percentage, maintain student records dynamically, and identify the topper.
 
-HTML5
+### Assignment 4: Employee Registration Form
 
-CSS3
+Develop a responsive employee registration form using HTML, CSS, and JavaScript with validation for name, email, password, phone number, and department.
 
-JavaScript
+### Assignment 5: Git and GitHub
 
-React
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Git and GitHub
-
-Thunder Client
-
-Tools Used
-
-Visual Studio Code
-
-Git and GitHub
-
-MongoDB Compass
-
- Thunder Client
-
-Purpose
-
-This repository serves as a collection of academic practical assignments and projects for learning, development, and future reference.
-
-Author
-
-Pranjal Patil
-
-Institution
-
-KBT College of Engineering, Nashik
+Create a locac
